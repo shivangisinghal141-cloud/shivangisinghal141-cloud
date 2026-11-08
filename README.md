@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shivangi 👋
 
-<!--
-**shivangisinghal141-cloud/shivangisinghal141-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning software development and Generative AI. I'm building my skills step by step, using AI tools as a tutor, and working towards my first open-source contributions and GSoC 2027.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning right now
+- Python and JavaScript fundamentals
+- How Generative AI and LLM apps work
+- Git, GitHub and the open-source workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- 🤝 Making my first open-source contribution
+- 🤖 Building my first Python GenAI project, written by me, step by step
+- 🌐 Studying and modifying a website that I made with AI help: [genai-experiments](https://github.com/shivangisinghal141-cloud/genai-experiments)
+
+## 🛠️ Tech I'm learning
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Connect with me
+- LinkedIn: add your link here
+- Email: add your email here
