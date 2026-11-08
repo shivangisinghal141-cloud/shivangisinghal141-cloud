@@ -19,5 +19,5 @@ I'm a student learning software development and Generative AI. I'm building my s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📫 Connect with me
-- LinkedIn: add your link here
-- Email: add your email here
+- LinkedIn: www.linkedin.com/in/shivangi-singhal-58a276397
+- Email: shivangisinghal141@gmail.com
